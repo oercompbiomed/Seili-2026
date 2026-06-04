@@ -1,10 +1,10 @@
-# BalticSeaBioMed Summer School in Seili 2025
+# BalticSeaBioMed Summer School in Seili 2026
 
 The Summer School on Human Health and Environment by the Baltic Sea in Seili is organised by the Nordic network BalticSeaBioMed, comprised of the Universities of Eastern Finland, Southern Denmark, Turku, Vilnius, Åbo Akademi University and Karolinska Institutet.
 
 BalticSeaBioMed builds on the highly successful work of our founding network, NordBioMedNet, and makes an important innovative leap to bring state-of-the-art biomedical methodology into global health research. Here, we apply funding for a new Master's level intensive course to teach with new digi-pedagogical tools and focus on a new theme: the environmental impact of human behaviour. As an example and an educational “case study”, we will examine the effect of human use of pharmaceuticals and certain other harmful factors or changes on the Baltic Sea, and study them with modern biomedical omics technologies and large-scale data analysis using advanced computational methods. Our goal is to train the students in the skills and competencies required to solve complex problems of global health by using the challenges closer to us; the populations and well-being around the Baltic Sea as an example.
 
-For the official program, see https://ki.instructure.com/courses/28543
+For the official program, see https://TODO
 
 ## Learning aims:
 
@@ -28,7 +28,7 @@ Please, download and fill in [the Group Contract](https://docs.google.com/docume
 
 ### 3. R coding
 
-If you are not familiar with R or need to fresh up to run basic R code, please go through the Part 1 of the online [R course "Hands-On Programming with R"](https://rstudio-education.github.io/hopr/) by Garrett Grolemund. It is a good idea to install [RStudio](https://posit.co/download/rstudio-desktop/) (or [JupyterLab](https://jupyter.org)) beforehand and run the code on your own computer while going through the book. The rest of the book is also highly recommended and contains structures (data frames, loops, ect.) that you will use during project work!
+If you are not familiar with R or need to fresh up to run basic R code, please go through the Part 1 of the online [R course "Hands-On Programming with R"](https://rstudio-education.github.io/hopr/) by Garrett Grolemund. It is a good idea to install [RStudio](https://posit.co/download/rstudio-desktop/ beforehand and run the code on your own computer while going through the book. The rest of the book is also highly recommended and contains structures (data frames, loops, ect.) that you will use during project work!
 
 ### 4. Protein interaction
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/protein-interactions-and-their-importance/
