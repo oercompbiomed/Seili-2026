@@ -4,7 +4,7 @@ The Summer School on Human Health and Environment by the Baltic Sea in Seili is 
 
 BalticSeaBioMed builds on the highly successful work of our founding network, NordBioMedNet, and makes an important innovative leap to bring state-of-the-art biomedical methodology into global health research. Here, we apply funding for a new Master's level intensive course to teach with new digi-pedagogical tools and focus on a new theme: the environmental impact of human behaviour. As an example and an educational “case study”, we will examine the effect of human use of pharmaceuticals and certain other harmful factors or changes on the Baltic Sea, and study them with modern biomedical omics technologies and large-scale data analysis using advanced computational methods. Our goal is to train the students in the skills and competencies required to solve complex problems of global health by using the challenges closer to us; the populations and well-being around the Baltic Sea as an example.
 
-For the official program, see https://TODO
+For the official program, see https://ki.instructure.com/courses/31906/
 
 ## Learning aims:
 
