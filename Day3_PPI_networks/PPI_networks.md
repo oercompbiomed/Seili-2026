@@ -192,13 +192,13 @@ To retrieve a list of publications that are enriched for the proteins in the net
 
 _What is the title of the most recent publication?_-->
 
-## Exercise 4 (optional): Predicting Protein Structures
+## Exercise 4: Predicting Protein Structures
 
 In this exercise, we are going to focus on a small subset of proteins to investigate their structure with [AlphaFold 3](https://alphafoldserver.com).
 
 ### 4.1 Extracting Subnetwork
 
-We take the first cluster and filter for the proteins with the lowest p-values. Open the **Filter** tab and click the **ᐩ** button and choose **Column filter** from the drop-down menu. Then, find and select the attribute **(pval**. Click on the **Show** button below to show only the filtered proteins. Then take an upper threshold of 0.0001 to keep only the very significant regulators. 
+We take the first cluster and filter for the proteins with the lowest p-values. Open the **Filter** tab and click the **ᐩ** button and choose **Column filter** from the drop-down menu. Then, find and select the attribute **(pval**. Click on the **Show** button below to show only the filtered proteins. Then, depending on which p-values there are, take an upper threshold of 0.0001 or just the top 10 to keep only the very significant regulators. 
 
 Save a picture of the network (**File → Export → Export to Image ...**)
 
@@ -207,7 +207,7 @@ _Which are the most connected proteins (only physical interactions)?_
 
 ### 4.2 Predicting Protein Dimers
 
-Take two examples for interacting proteins from the given network. You can also take a pair or supposedly non-interacting proteins. Then open [AlphaFold 3](https://alphafoldserver.com) in a browser.
+Take two examples for 2-3 interacting proteins from the given network. You can also take supposedly non-interacting proteins. Then open [AlphaFold 3](https://alphafoldserver.com) in a browser.
 
 Find the protein sequences in Uniprot. For that, search the gene name in [UniProt](https://www.uniprot.org/uniprot), and select the protein from the right species. Go to **Sequence & Isoforms** to see the sequence. Then find the small button **Copy sequence** in the box containing the protein sequence.
 
