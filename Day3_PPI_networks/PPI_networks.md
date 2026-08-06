@@ -25,7 +25,6 @@ If you are not already familiar with the STRING database, we highly recommend th
 
 ## Exercise 1: Basics
 
-
 In this exercise, we will perform some simple queries to retrieve molecular networks based on a protein, a small-molecule compound, a disease, and a topic in PubMed.
 
 ### 1.1 Protein queries
@@ -70,6 +69,8 @@ The types of queries described above can alternatively be performed through the 
 ## Exercise 2: Continuing Your Main Investigation
 
 In this exercise, we will work with the obtained tables for the significant transcription factors. Find them [here](https://github.com/oercompbiomed/Seili-2025/tree/main/RNAseq_backup_files) in case you want to start with the original data.
+
+Please start with the enriched transcription factors for **down-regulated genes with PCB118** as we will use the protein structures from this subset. You can re-do the analysis for any of the other cases later.
 
 ### 2.1 Protein network retrieval
 
