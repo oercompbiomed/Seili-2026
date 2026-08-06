@@ -210,7 +210,7 @@ _Which are the most connected proteins (only physical interactions)?_
 
 ### 4.2 Predicting Protein Dimers
 
-Take two examples for 2-3 interacting proteins from the given network. You can also take supposedly non-interacting proteins. Then open [AlphaFold 3](https://alphafoldserver.com) in a browser.
+Take two examples for 2-3 interacting proteins from the given network. You can also take supposedly non-interacting proteins. Then open [AlphaFold 3](https://alphafoldserver.com) in a browser. If you don't know which protein to select, take "TEAD1", "TEAD4", "YAP1" and "TCF7".
 
 Find the protein sequences in Uniprot. For that, search the gene name in [UniProt](https://www.uniprot.org/uniprot), and select the protein from the right species. Go to **Sequence & Isoforms** to see the sequence. Then find the small button **Copy sequence** in the box containing the protein sequence.
 
