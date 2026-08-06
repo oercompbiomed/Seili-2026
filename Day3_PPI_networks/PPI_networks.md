@@ -197,9 +197,11 @@ _What is the title of the most recent publication?_-->
 
 In this exercise, we are going to focus on a small subset of proteins to investigate their structure with [AlphaFold 3](https://alphafoldserver.com).
 
-### 4.1 Extracting Subnetwork
+### 4.1 Extracting Smaller Subnetwork
 
-We take the first cluster and filter for the proteins with the lowest p-values. Open the **Filter** tab and click the **ᐩ** button and choose **Column filter** from the drop-down menu. Then, find and select the attribute **(pval**. Click on the **Show** button below to show only the filtered proteins. Then, depending on which p-values there are, take an upper threshold of 0.0001 or just the top 10 to keep only the very significant regulators. 
+We take the first cluster and filter for the proteins in the KEGG pathway with the lowest **FDR value**. Select this pathway (it should be "Hippo signaling pathway"), and create a new network from the selected proteins. 
+
+You are now left with a low number of interacting proteins for which we want to study their structure and how they form dimers or trimers.
 
 Save a picture of the network (**File → Export → Export to Image ...**)
 
