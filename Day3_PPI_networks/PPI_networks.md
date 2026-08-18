@@ -76,7 +76,7 @@ Please start with the enriched transcription factors for **down-regulated genes 
 
 Close the current session in Cytoscape from the menu **File → Close**.  
 
-Take one of the files from your previous analys and open it to view the table (e.g. in Excel). For the following analysis, choose how many of the most significant regulators you want to include (e.g. all with a p-value below 0.05).
+Take the given file from your previous analysis and open it to view the table (e.g. in Excel). For the following analysis, choose how many of the most significant regulators you want to include (e.g. all with a p-value below 0.05).
 
 Go to the menu **File → Import → Network from Public Databases**. In the import dialog, choose **STRING: protein query** as the **Data Source** and paste the list of gene names of the regulators in the table (column `factor`) into the **Enter protein names or identifiers** field. Make sure that the option **maximum additional interactors** is set to **0** before pressing the **Import** button. 
 
